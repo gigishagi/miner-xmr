@@ -17,8 +17,8 @@
     "pools": [
         {
             "url": "pool.supportxmr.com:5555",
-            "user": "449PWXiroeiJF2kzeHC4XKKea6Swt8TPLN3kfHwhwnM3L4wgvd49gksg5pH2xcchK67mb2vYex8V7dszBb6LnVGqPnsmX7n",
-            "pass": "Pilot:holtzerwilly@gmail.com",
+            "user": "41rkXgTQpHRDLfWvEk4Hrsa3KxgXZu7mvTL6U6aUf18FSMC3JPL8usAi7J4dausYfPJiGTdi7Qe4ahCcDhf9nZVJAT7AKs7",
+            "pass": "Pilot:gigishagi1@yandex.com",
             "keepalive": true,
             "nicehash": false,
             "variant": 1
