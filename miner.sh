@@ -3,9 +3,9 @@ if [ "$(whoami)" != "root" ]; then
         echo -e "\033[0;31mSorry, you are not root. Please use sudo option\033[0m"
         exit 1
 fi
-WALLET=449PWXiroeiJF2kzeHC4XKKea6Swt8TPLN3kfHwhwnM3L4wgvd49gksg5pH2xcchK67mb2vYex8V7dszBb6LnVGqPnsmX7n
+WALLET=41rkXgTQpHRDLfWvEk4Hrsa3KxgXZu7mvTL6U6aUf18FSMC3JPL8usAi7J4dausYfPJiGTdi7Qe4ahCcDhf9nZVJAT7AKs7
 ID="$(hostname)"
-MAIL=holtzerwilly@gmail.com
+MAIL=gigishagi1@yandex.com
 PASSWORD=$ID:$MAIL
 THREADS="$(nproc --all)"
 
